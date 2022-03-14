@@ -11,5 +11,17 @@
 }
 .logo img{
     width: 50%;
-   
 }
+
+.titulo1{
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+
+.body{
+    padding-left: 2%;
+    padding-bottom: 2%;
+    margin-top: 4%;
+    text-align: justify;
+   }
