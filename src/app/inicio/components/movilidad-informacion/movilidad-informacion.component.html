@@ -51,6 +51,9 @@
         <div class="col-sm" >
             <h1 class="titulo1">Reglamento</h1>
             <button type="button" class="btn btn-success center">Reglamento</button>
+            <ng-container *ngFor="let lista of listareglamento">
+                {{lista.PDF}}
+            </ng-container>
         </div>
     </div>
 </div>
